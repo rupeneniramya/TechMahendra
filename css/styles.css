@@ -36,6 +36,14 @@
     	padding: 7px;
 	}
 
+	.jio_ebay {
+		    height: 80px;
+    position: absolute;
+    top: 392px;
+    width: 609px;
+    left: 60px;
+	}
+
 	.form_box {
 		border: 1px white solid;
 	}
@@ -51,7 +59,7 @@
 	.form_data {
 		position: relative;
 	    top: 152px;
-	    left: 119px;
+	    left: 263px;
 	}
 
 	.form_container {
