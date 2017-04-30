@@ -22,27 +22,24 @@
 	}
 
 	.upx {
+	}
+
+	.upx-container {
 		position: absolute;
-		top: 160px;
-		left: 75px;
+    top: 160px;
+    left: 62px;
 	}
 
 	.main-headding {
 		color: white;
-		position: relative;
-		top: 285px;
-   		left: 76px;
-   		border-left: 8px #ec6809 solid;
+		border-left: 8px #ec6809 solid;
     	padding: 7px;
 	}
 
 	.jio_ebay {
 		    height: 80px;
-    position: absolute;
-    top: 392px;
-    width: 609px;
-    left: 60px;
-	}
+    	width: 609px;
+    }
 
 	.form_box {
 		border: 1px white solid;
@@ -57,9 +54,9 @@
 	}
 
 	.form_data {
-		position: relative;
+		position: absolute;
 	    top: 152px;
-	    left: 263px;
+	    left: 1022px;
 	}
 
 	.form_container {
