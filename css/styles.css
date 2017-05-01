@@ -1,0 +1,237 @@
+.mainSection {
+		background-image: url(../images/hbg-1404.png);
+		width: 100%;
+		height: 730px;
+	}
+
+	.topLink {
+		width: 50px;
+		height: 70px;
+		position: absolute;
+		left: 60px;
+	}
+    .topLogo {
+    	width: 60px;
+    	height: 80px;
+    	position: absolute;
+    }
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+	.upx {
+	}
+
+	.upx-container {
+		position: absolute;
+    top: 160px;
+    left: 62px;
+	}
+
+	.main-headding {
+		color: white;
+		border-left: 8px #ec6809 solid;
+    	padding: 7px;
+	}
+
+	.jio_ebay {
+		    height: 80px;
+    	width: 609px;
+    }
+
+	.form_box {
+		border: 1px white solid;
+	}
+
+	.form_text {
+		color: white;
+	}
+
+	.header-content {
+		display: flex;
+	}
+
+	.form_data {
+		position: absolute;
+	    top: 152px;
+	    left: 1022px;
+	}
+
+	.form_container {
+		background-color: white;
+	    padding: 25px;
+	}
+
+	.online {
+		border-bottom: 3px #ec6809 solid;
+  		padding: 4px;
+  		text-align: center;
+	}
+
+	.date {
+		color: #ec6809;
+		text-align: center;
+	}
+
+	input[type=text] {
+		padding: 10px;
+    border-radius: 6px;
+    margin: 10px;
+	}
+
+	.register {
+		width: 201px;
+    height: 40px;
+    color: white;
+    background-color: #ec6809;
+    border-radius: 6px;
+	}
+
+
+	.keytakeaways {
+		    position: relative;
+    top: -27px;
+	}
+
+	.takeaway {
+		border: 1px black solid;
+		background-color: white;
+		display: inline-block;
+    width: 23%;
+    margin-right: 13px;
+    padding: 9px;
+	}
+
+	.takeaway img {
+    height: 90px;
+    width: 95px;
+    /* align-items: center; */
+    /* text-align: center; */
+    margin: 0 auto;
+    position: relative;
+    left: 30%;
+    padding: 8px;
+    margin: 8px;
+}
+
+
+.speakers-list {
+	background-image: url(../images/sbg-1404.png);
+	width: 100%;
+	height: 600px;
+	color: white;
+}
+
+.speaker {
+	margin: 20px;
+    padding: 20px;
+    /* flex: 9; */
+    width: 269px;
+   
+    margin-left: 60px;
+    position: relative;
+    left: 49px;
+    display: inline-block;
+}
+
+.section-heading {
+	    position: relative;
+    left: 50%;
+}
+
+.row {
+	top: -37px;
+    position: relative;
+        margin-top: 25px;
+}
+
+.agenda-heading {
+	text-align: center;
+    border-bottom: 1px #ccc solid;
+    padding: 15px;
+}
+.student-speak {
+	background-image: url('../images/student-bg-1404.png');
+	width: 100%;
+	height: 600px;
+}
+
+.speaks p {
+	color: white;
+}
+
+.agenda-type>img {
+	width: 50px;
+    margin-bottom: 20px;
+}
+
+.agenda-type >h4 {
+	max-width: 255px;
+}
+
+.agenda-type {
+	display: inline-block;
+	display: inline-block;
+    border-left: 1px #ccc solid;
+    border-right: 1px #ccc solid;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+}
+
+.speaks {
+	max-width: 800px;
+    position: relative;
+    left: 25%;
+}
+
+.speak {
+	margin: 30px;
+}
+
+.about-h {
+	text-align: center;
+    border-bottom: 1px #ccc solid;
+    padding: 10px;
+}
+
+.light-text12 {
+	    max-width: 60%;
+    text-align: center;
+    position: relative;
+    left: 25%;
+        border-bottom: 1px #ccc solid;
+    padding: 10px;
+}
+
+.course {
+	    width: 400px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+.courses {
+	    position: relative;
+    left: 207px;
+}
+
+.course a {
+	background-color: #ec6809;
+    width: 124px;
+    height: 33px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 171px;
+    border-radius: 5px;
+}
+
+footer {
+	    margin-top: 51px;
+    background-color: black;
+    color: white;
+}
